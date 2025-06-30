@@ -1,5 +1,5 @@
 # Sure-Tomorrow-Insurance
-Insurance Project for Sure Tomorrow company using numerical methods
+Insurance Project for Sure Tomorrow company
 
 The insurance company Sure Tomorrow wants to solve several tasks with the help of machine learning and asks you to evaluate the possibility of this.
 
